@@ -1,0 +1,10 @@
+.complete{
+    text-decoration: line-through;
+    color: #666;
+    font-style: italic;
+}
+.remove{
+    color: red;
+    margin-left: 10px;
+    cursor: pointer;
+}
