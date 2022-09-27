@@ -1,12 +1,12 @@
 import Counter from "./components/Counter";
 import Product from "./components/Product";
+import ToDo from "./components/ToDo/ToDo";
 function App() {
   
   return (
     <>
-      <h1>React Redux</h1>
-      <Counter step={3}/>
-      <Product />
+      <h1>Redux Toolkit</h1>
+      <ToDo />
     </>
   );
 }
