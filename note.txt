@@ -31,3 +31,11 @@ Lưu ý khi làm việc với Redux
 - useSelector() => Lấy state từ store Redux
 
 => Đều import từ thư viện react-redux
+
+Redux Thunk
+
+- Actions là 1 object 
+- ACtions Creator => function để tạo ra action
+
+- Thunk là 1 function
+- Thunk Creator => Function để tạo thunk

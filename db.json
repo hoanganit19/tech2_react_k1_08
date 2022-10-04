@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "name": "Công việc 1",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "name": "Công việc 2",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "name": "Công việc 3",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "name": "Học javascript",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "name": "Học reactjs",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "name": "Học PHP",
+      "complete": false,
+      "id": 6
+    }
+  ]
+}
