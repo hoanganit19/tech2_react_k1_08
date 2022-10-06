@@ -1,0 +1,17 @@
+@import '../../Assets/Scss/Parts/Variable';
+
+.wrapper{
+    border: 1px solid red;
+    padding: 50px;
+
+    .btn{
+        background: $primaryColor;
+        color: #fff;
+        border: none;
+        &:hover{
+            background: red;
+            cursor: pointer;
+        }
+    }
+}
+

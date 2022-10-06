@@ -39,3 +39,22 @@ Redux Thunk
 
 - Thunk là 1 function
 - Thunk Creator => Function để tạo thunk
+
+Làm việc Assets
+
+1. CSS: 
+- CSS thuần => Import file CSS 
+- SCSS/SASS => Import file SCSS/SASS (Cài package sass)
+- CSS Moudule
+
+2. Javascript
+- Nếu là components => đặt tên PascalCase
+- Nếu không phải components => đặt tên camelCase
+
+3. Image
+- Image trong src => Import image vào file js
+- Image trong public => gọi đường dẫn tương đối hoặc tuyệt đối
+
+4. Fonts 
+
+- Import vào file CSS
